@@ -1,0 +1,35 @@
+* {
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+body {
+ background-image: linear-gradient(to bottom left, yellow, white);
+ font-family: 'Clash Display', sans-serif;
+ width: 450px;
+ height: 1000px;
+ margin: auto;
+ padding: 50px;
+ text-align: center;
+}
+
+.body {
+ margin: 10px 0;
+ padding: 20px 0px;
+ box-shadow: 10px 10px 10px;
+ border-radius: 20px;
+ background-image: linear-gradient(to bottom left, steelblue, white 100%);
+ 
+}
+
+.details h3 {
+ text-align: left;
+ margin-left: 50px;
+ padding: 7px;
+}
+
+.signup button {
+ background-color: steelblue;
+ color: black;
+}
